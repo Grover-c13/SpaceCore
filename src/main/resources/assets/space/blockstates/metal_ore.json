@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "space:metal_ore",
+    "textures": {
+        "layer0": "space:blocks/metal_ore_stone",
+        "layer1": "space:blocks/metal_ore"
+    },
+    "transform": "forge:default-block"
+  },
+    "variants": {
+        "metal_seed=0": { "model": "space:metal_ore" },
+        "metal_seed=1": { "model": "space:metal_ore" },
+        "metal_seed=2": { "model": "space:metal_ore" },
+        "metal_seed=3": { "model": "space:metal_ore" },
+        "metal_seed=4": { "model": "space:metal_ore" },
+        "metal_seed=5": { "model": "space:metal_ore" },
+        "metal_seed=6": { "model": "space:metal_ore" },
+        "metal_seed=7": { "model": "space:metal_ore" },
+        "metal_seed=8": { "model": "space:metal_ore" }
+    }
+}
